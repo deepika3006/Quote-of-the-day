@@ -1,1 +1,1 @@
-This project will randomly displays the quotations daily
+This project will randomly displays the quotations daily.
