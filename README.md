@@ -1,1 +1,1 @@
-# Quote-of-the-day-Techplement
+This project will randomly displays the quotations daily
